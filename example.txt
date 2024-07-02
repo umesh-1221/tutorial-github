@@ -1,0 +1,49 @@
+Git - Version Control System
+Github - Remote repository hosting service
+
+
+// Version Control System
+
+Git 
+
+// Remote repository hosting service
+
+Github
+BitBucket
+
+
+4 steps to move your local project to Github
+
+-- git status
+
+1. Working Directory
+    -- git init
+
+        step 1. to step 2. to push certain files we use 
+
+        --git add fileName (to send certain file)
+        --git add . (to send all files)
+
+2. Staging Area
+     -- file we choose to send to github
+
+     step 2. to step 3. to move files to local repo 
+     -- git commit -m 'just a even/odd func'
+    
+3. Local repository
+    -- we hold this to ready to move to remote repository
+
+     step 3. to step 4. to move files to github from local repo
+     -- git push
+
+4. Remote repository
+
+
+
+
+-- branches
+
+
+-- master
+
+
